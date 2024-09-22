@@ -1,0 +1,32 @@
+body {
+    font-weight: 400;
+    font-family: lato, Helvetica, sans-serif;
+    font-size:15px;
+    line-height: 2.2em;
+    margin: 0;
+}
+
+li{
+    color:crimson
+}
+
+
+section2, footer, video {
+    text-align: center;
+}
+h2 {
+    background-color: blue;
+    color: yellow;
+    border-color: red;
+    padding: 15px;
+}
+
+h3 {
+    background-color:blue;
+    color: yellow;
+    font-size:x-large;
+    border-color: blue;
+    padding: 15px;
+}
+
+
